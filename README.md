@@ -10,7 +10,7 @@ Para usarlo con Arduino
 ![D_NQ_NP_724095-MLB31173211586_062019-O](https://user-images.githubusercontent.com/80070044/169897053-548e6a1b-ca33-463f-8061-abdca29413ce.jpg)
 
 
-''''
+```
 void setup() {
   // inicializar pin 13 como salida.
   pinMode(13, OUTPUT);
@@ -24,4 +24,4 @@ void loop() {
   delay(1000);              // espera un segundo
 }
 
-''''
+```
